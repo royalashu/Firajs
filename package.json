@@ -1,0 +1,27 @@
+{
+  "name": "firajs",
+  "version": "1.0.0",
+  "main": "src/fira.js",
+  "scripts": {
+    "build": "echo \"Error: no test specified\" && exit 1"
+  },
+  "directories": {
+    "example": "examples"
+  },
+  "keywords": ["animation", "library", "scrollTrigger", "GSAP"],
+  "author": "Ashish kumar",
+  "license": "MIT",
+  "description": "A JavaScript library for animations using GSAP and ScrollTrigger",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/royalashu/Firajs.git"
+  },
+  "files": [
+    "src"
+  ],
+  "style": "src/Fira.css",
+  "devDependencies": {
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
